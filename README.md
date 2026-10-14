@@ -8,6 +8,9 @@
 - `lore/characters.md`：角色档案（主角、从者、NPC）
 - `gameplay/current_session.md`：当前进行中的剧情与选择记录
 - `saves/slot1.md`：存档位（可复制出更多存档）
+- `saves/slot2.md`：存档位 2（用于分支回档）
+- `branch-log.md`：分支剧情线记录
+- `items.md`：道具/线索总表
 
 ## 使用方式
 
